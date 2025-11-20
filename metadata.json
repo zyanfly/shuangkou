@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 双扣计分器",
+  "description": "一个用于双扣扑克游戏的H5计分工具，支持双扣、单扣、平扣的自动金额结算与总账记录。",
+  "requestFramePermissions": []
+}
